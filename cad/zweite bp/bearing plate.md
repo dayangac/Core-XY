@@ -1,3 +1,19 @@
-first I created the base sketch![[bs.png]]Then I added the screw holes![[machine buidling/cad/zweite bp/2.png]]lastly I modified the back hole to be a slot with slightly more space![[slt.png]]
-then I extruded
-![[ext.png]]then I chamfered the outer edges![[chamf.png]]finally I added chamfers to the bottom squares sides and fillets to the top squares sides and the design was done![[fi.png]]
+# Base Part Design
+
+First, I created the base sketch:  
+![Base sketch](bs.png)
+
+Then, I added the screw holes:  
+![Screw holes added](2.png)
+
+Lastly, I modified the back hole into a slot with slightly more space:  
+![Back hole modified](slt.png)
+
+Next, I extruded the part:  
+![Extrusion](ext.png)
+
+Then, I chamfered the outer edges:  
+![Chamfered edges](chamf.png)
+
+Finally, I added chamfers to the sides of the bottom squares and fillets to the sides of the top squares. The design was then completed:  
+![Final design](fi.png)
