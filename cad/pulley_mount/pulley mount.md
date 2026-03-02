@@ -1,2 +1,5 @@
+# Pulley Mount
 
-not much to explain just a simple pulley mount to mount the pulleys on the moving axis![[pm.png]]
+Not much to explain — just a simple pulley mount to attach the pulleys on the moving axis.  
+
+![Pulley mount](pm.png)
